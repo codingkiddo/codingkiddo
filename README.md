@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Vinod 👋
+# I'm Vinod 👋
 
-### Backend & Full-Stack Engineer · Bengaluru, India
+### Backend engineer building distributed systems, real-time platforms, and AI-assisted products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-kumar-87962818/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/codingkiddo/)
