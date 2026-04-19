@@ -11,10 +11,11 @@
 </div>
 
 ---
+**Open-source active • Pull Shark x3 • Building practical backend, distributed systems, and AI-driven products**
 
 I build **production-grade backend systems** — distributed caches, microservices platforms, real-time messaging — with a focus on correctness, scalability, and clean architecture.
 
-- 🔭 Currently building a **cross-platform messenger** (Flutter + Spring Boot microservices + Kafka + AWS)
+- 🔭 Currently building a **cross-platform messenger** (Spring Boot microservices + Kafka + AWS)
 - 🛠️ Deep in **distributed systems**: custom caching engines, event-driven architectures, CDN signed-URL delivery
 - 🧠 Interested in system design, high-throughput data pipelines, and API internals
 - 📍 Bengaluru, India
