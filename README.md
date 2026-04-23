@@ -1,135 +1,122 @@
-# Hi, I'm Vinod 👋
+<h1 align="center">Hi, I'm Vinod 👋</h1>
+<h3 align="center">Backend Engineer | Java • Spring Boot • AWS • Distributed Systems • Event-Driven Architecture</h3>
 
-Backend Engineer focused on **cloud-native Java/Spring systems**, **AWS**, **distributed systems**, and **event-driven architecture**.
-
-I build scalable backend platforms across **device intelligence**, **cybersecurity**, **banking/fintech**, and **media/streaming** domains. I enjoy designing reliable microservices, async workflows, and production-grade cloud systems.
-
----
-
-## 🚀 Tech Focus
-
-![Java](https://img.shields.io/badge/Java-Backend-informational)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-informational)
-![AWS](https://img.shields.io/badge/AWS-Cloud-informational)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-Scalable-informational)
-![Event Driven](https://img.shields.io/badge/Event_Driven-Architecture-informational)
-![Docker](https://img.shields.io/badge/Docker-Containerization-informational)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-informational)
+<p align="center">
+  <a href="https://www.codingkiddo.com">Website</a> •
+  <a href="https://github.com/codingkiddo">GitHub</a> •
+  <a href="https://leetcode.com/u/codingkiddo/">LeetCode</a>
+</p>
 
 ---
 
-## 💡 About Me
+## 💫 About Me
 
-- Backend Engineer with strong experience in **Java**, **Spring Boot**, and **microservices**
-- Hands-on with **AWS**: EC2, ECS/EKS, S3, RDS, DynamoDB, SQS, SNS, Lambda, CloudWatch, IAM, API Gateway
-- Interested in **distributed systems**, **event-driven platforms**, **system design**, and **AI-powered backend products**
-- Earlier full-stack experience with **React**, **React Native**, and **Angular**
-- Building side projects around **AI agents**, **network/device diagnostics**, and **cloud-native backend platforms**
+Backend Engineer building **cloud-native Java/Spring microservices on AWS** with a strong focus on **distributed systems**, **event-driven architecture**, and **production-grade backend systems**.
+
+I’ve worked across domains like:
+- **Device Intelligence / Network Diagnostics**
+- **Cybersecurity / Policy Enforcement**
+- **Banking / Fintech**
+- **Media / Video Streaming**
+
+I enjoy designing scalable services, async workflows, secure APIs, and backend platforms that are reliable, observable, and easy to evolve.
 
 ---
 
-## 🧠 Core Skills
+## 🚀 Tech Stack
 
 ### Backend
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- Multithreading / Concurrency
-- System Design
+![Java](https://img.shields.io/badge/Java-Backend-informational)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-informational)
+![REST API](https://img.shields.io/badge/REST-API-informational)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-informational)
+![Concurrency](https://img.shields.io/badge/Java-Concurrency-informational)
 
 ### Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- ECS / EKS
-- CI/CD
-- CloudWatch
-- IAM
-- API Gateway
+![AWS](https://img.shields.io/badge/AWS-Cloud-informational)
+![Docker](https://img.shields.io/badge/Docker-Containerization-informational)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-informational)
+![ECS/EKS](https://img.shields.io/badge/ECS/EKS-Deployment-informational)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-informational)
+
+### AWS Services
+![EC2](https://img.shields.io/badge/EC2-Compute-informational)
+![S3](https://img.shields.io/badge/S3-Storage-informational)
+![RDS](https://img.shields.io/badge/RDS-Database-informational)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-informational)
+![SQS](https://img.shields.io/badge/SQS-Messaging-informational)
+![SNS](https://img.shields.io/badge/SNS-PubSub-informational)
+![Lambda](https://img.shields.io/badge/Lambda-Serverless-informational)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Observability-informational)
+![IAM](https://img.shields.io/badge/IAM-Security-informational)
+![API Gateway](https://img.shields.io/badge/API_Gateway-Managed_API-informational)
 
 ### Data & Messaging
-- PostgreSQL
-- MySQL
-- DynamoDB
-- Redis
-- Kafka
-- SQS
-- SNS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-informational)
+![MySQL](https://img.shields.io/badge/MySQL-Database-informational)
+![Redis](https://img.shields.io/badge/Redis-Caching-informational)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-informational)
 
 ### Frontend
-- React
-- React Native
-- Angular
+![React](https://img.shields.io/badge/React-Frontend-informational)
+![React Native](https://img.shields.io/badge/React_Native-Mobile-informational)
+![Angular](https://img.shields.io/badge/Angular-Web-informational)
 
 ---
 
-## 🏗 Featured Projects
+## 🏗️ Featured Projects
 
 ### 🔹 AI Network / Device Diagnostics Agent
-AI-powered backend agent for diagnosing device and network issues using telemetry, rules, and service intelligence.
-
+AI-powered backend system for diagnosing network and device issues using telemetry, rules, and intelligent workflows.  
 **Tech:** Java, Spring Boot, AWS, Docker, AI Agent Patterns
 
----
-
 ### 🔹 Open Banking Gateway
-Secure API gateway platform for banking/open-finance integrations with authentication and authorization flows.
-
+Secure backend gateway for banking/open-finance integrations with strong authentication and authorization workflows.  
 **Tech:** Spring Boot, Keycloak, Docker, Security, API Gateway
 
----
-
 ### 🔹 Cloud-Native Microservices Playground
-Practice repo for scalable service design: async messaging, retries, observability, service decomposition, and API orchestration.
-
+A hands-on repo for practicing scalable service design patterns like retries, async messaging, observability, and service decomposition.  
 **Tech:** Java, Spring Boot, Docker, Kubernetes, AWS
 
----
-
 ### 🔹 Device Intelligence / Security Platform Concepts
-Backend architecture ideas inspired by large-scale telemetry, policy enforcement, threat intelligence, and device classification systems.
-
+Architecture ideas inspired by real-world systems involving telemetry, policy enforcement, threat intelligence, and device classification.  
 **Tech:** Java, Spring, Kafka, AWS, Distributed Systems
 
+> Replace these sections with your actual repository links once ready.
+
 ---
 
-## 🧱 Engineering Areas I Enjoy
+## 🧠 Engineering Areas I Enjoy
 
 - Distributed Systems
 - Event-Driven Architecture
 - Cloud-Native Backend Design
-- API Design
-- Microservices
+- Secure API Platforms
+- Async Messaging Systems
 - Observability & Reliability
-- Async Messaging
-- Secure Platform Engineering
+- Java Concurrency
 - AI Agent Backends
+- System Design
 
 ---
 
 ## 📚 Currently Exploring
 
-- Advanced Java concurrency
-- AI agent orchestration
-- OSS contribution in Java ecosystem
-- Production design patterns from large open-source systems
-- AWS-first system architecture
-
----
-
-## 🔗 Connect With Me
-
-- Website: [codingkiddo.com](https://www.codingkiddo.com)
-- LeetCode: [leetcode.com/u/codingkiddo](https://leetcode.com/u/codingkiddo/)
-- GitHub: [github.com/codingkiddo](https://github.com/codingkiddo)
+- Advanced Java Threads & Concurrency
+- AI Agent Orchestration
+- OSS Contributions in the Java Ecosystem
+- AWS-first Production Architecture
+- Design patterns from large-scale open-source systems
 
 ---
 
 ## 📈 GitHub Stats
 
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingkiddo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingkiddo&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingkiddo&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingkiddo&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
@@ -139,4 +126,12 @@ Backend architecture ideas inspired by large-scale telemetry, policy enforcement
 - Java / Spring Boot opportunities
 - AWS / Cloud platform engineering roles
 - Distributed systems and event-driven backend work
-- Meaningful open-source collaboration
+- Open-source collaboration
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 Website: [codingkiddo.com](https://www.codingkiddo.com)
+- 💻 GitHub: [github.com/codingkiddo](https://github.com/codingkiddo)
+- 🧠 LeetCode: [leetcode.com/u/codingkiddo](https://leetcode.com/u/codingkiddo/)
