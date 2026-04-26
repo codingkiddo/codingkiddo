@@ -86,6 +86,19 @@ Architecture ideas inspired by real-world systems involving telemetry, policy en
 
 ---
 
+## Code Quality & Security Practices
+
+I focus on writing clean, maintainable, and secure code using static analysis and automated quality checks.
+
+**Tools I use:**
+
+- **Java:** SpotBugs, PMD, Checkstyle, Error Prone
+- **Python:** Ruff, Bandit, mypy, Pylint
+- **JavaScript/TypeScript:** ESLint, typescript-eslint, TypeScript compiler
+- **Security/SAST:** Semgrep, GitHub CodeQL, Snyk Code
+- **Code Quality:** SonarQube, SonarCloud
+- **CI/CD:** GitHub Actions quality gates and automated pull request scanning
+
 ## 🚀 Open Source & Engineering Focus
 
 - Java, Spring Boot, React, React Native, Angular
