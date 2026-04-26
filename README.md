@@ -86,6 +86,19 @@ Architecture ideas inspired by real-world systems involving telemetry, policy en
 
 ---
 
+## 🚀 Open Source & Engineering Focus
+
+- Java, Spring Boot, React, React Native, Angular
+- AWS: EC2, ECS/EKS, S3, RDS, DynamoDB, SQS, SNS, Lambda, CloudWatch, IAM, API Gateway
+- AI Agents, Network Diagnostics, IoT Telemetry, Open Banking, Security Systems
+- Studying design patterns from large-scale open-source systems like Spring, ThingsBoard, Home Assistant, and LangChain4j
+
+## 🛠️ Current Focus
+
+- Contributing to Java/Python/JavaScript open-source projects
+- Building AI-powered backend systems
+- Strengthening system design, design patterns, and cloud-native architecture
+
 ## 🧠 Engineering Areas I Enjoy
 
 - Distributed Systems
