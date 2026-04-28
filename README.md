@@ -20,7 +20,7 @@ I’ve worked across domains like:
 - **Media / Video Streaming**
 
 I enjoy designing scalable services, async workflows, secure APIs, and backend platforms that are reliable, observable, and easy to evolve.
-
+- 🔭 Actively contributing to open source with 4 pull requests opened across Java/Spring projects
 ---
 
 ## 🚀 Tech Stack
