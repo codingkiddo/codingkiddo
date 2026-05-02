@@ -11,7 +11,9 @@
 
 ## 💫 About Me
 
-Backend Engineer building **cloud-native Java/Spring microservices on AWS** with a strong focus on **distributed systems**, **event-driven architecture**, and **production-grade backend systems**.
+Full Stack Developer building **cloud-native applications and scalable backend systems** using **Java, Spring Boot, AWS, React, React Native, JavaScript, TypeScript, and Python**.
+
+I have a strong focus on **distributed systems**, **event-driven architecture**, **production-grade backend services**, and **modern web/mobile application development**.
 
 I’ve worked across domains like:
 
@@ -22,7 +24,7 @@ I’ve worked across domains like:
 
 I enjoy designing scalable services, async workflows, secure APIs, and backend platforms that are reliable, observable, and easy to evolve.
 
-- 🔭 Actively contributing to open source — opened multiple pull requests across Java/Spring projects
+- **🔭 Actively contributing to open source — opened multiple pull requests across Java/Spring projects**
 
 ---
 
