@@ -22,7 +22,7 @@ I’ve worked across domains like:
 
 I enjoy designing scalable services, async workflows, secure APIs, and backend platforms that are reliable, observable, and easy to evolve.
 
-- 🔭 Actively contributing to open source — opened 4 pull requests across Java/Spring projects
+- 🔭 Actively contributing to open source — opened multiple pull requests across Java/Spring projects
 
 ---
 
