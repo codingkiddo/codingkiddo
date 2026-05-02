@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vinod 👋</h1>
-<h3 align="center">Backend Engineer | Java • Spring Boot • AWS • Distributed Systems • Event-Driven Architecture</h3>
+<h3 align="center">Backend Engineer | Java • Spring Boot • AWS • AI/ML • Big Data • Distributed Systems • Event-Driven Architecture</h3>
 
 <p align="center">
   <a href="https://www.codingkiddo.com">Website</a> •
