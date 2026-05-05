@@ -158,9 +158,8 @@ I focus on writing clean, maintainable, and secure code using static analysis an
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingkiddo&show_icons=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingkiddo&layout=compact" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codingkiddo&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingkiddo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
