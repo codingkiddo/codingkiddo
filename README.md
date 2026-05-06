@@ -72,6 +72,9 @@ I actively explore and contribute to open-source projects, especially in **Java,
 - **Kong/unirest-java** — Contributed support for chained `MockClient` expectations, enabling ordered responses for repeated calls to the same endpoint.  
   PR merged: https://github.com/Kong/unirest-java/pull/566
 
+- **Apache CloudStack** — Improved test reliability by skipping `QemuImgTest` when native libvirt libraries cannot be loaded, avoiding false test failures on local environments without libvirt.  
+  PR merged: https://github.com/apache/cloudstack/pull/13086
+
 - Interested in practical improvements such as bug fixes, test coverage, documentation, API behavior refinements, and developer experience improvements.
 
 - Exploring contribution opportunities across Java, Python, JavaScript, TypeScript, backend infrastructure, distributed systems, and cloud-native tooling.
