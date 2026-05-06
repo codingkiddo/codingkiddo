@@ -1,188 +1,86 @@
-<h1 align="center">Hi, I'm Vinod 👋</h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • AWS • React • React Native • TypeScript • Python • AI/ML • Big Data Ecosystem</h3>
+# Hi, I'm Vinod Kumar M 👋
 
-<p align="center">
-  <a href="https://www.codingkiddo.com">Website</a> •
-  <a href="https://github.com/codingkiddo">GitHub</a> •
-  <a href="https://leetcode.com/u/codingkiddo/">LeetCode</a>
-</p>
+## Lead Software Engineer | Java | Spring Boot | Microservices | Kafka | AWS | React
 
----
+I am a Lead / Senior Software Engineer with nearly 15 years of experience designing and building scalable backend, cloud-native, event-driven, and full-stack enterprise applications.
 
-## 💫 About Me
+My core expertise includes **Java, Spring Boot, Microservices, REST APIs, Kafka, AWS, Docker, Kubernetes, PostgreSQL, Cassandra, Redis, React, React Native, TypeScript, and Distributed Systems**.
 
-Full Stack Developer building **cloud-native applications and scalable backend systems** using **Java, Spring Boot, AWS, React, React Native, JavaScript, TypeScript, and Python**.
-
-I have a strong focus on **distributed systems**, **event-driven architecture**, **production-grade backend services**, and **modern web/mobile application development**.
-
-I’ve worked across domains like:
-
-- **Device Intelligence / Network Diagnostics**
-- **Cybersecurity / Policy Enforcement**
-- **Banking / Fintech**
-- **Media / Video Streaming**
-
-I enjoy designing scalable services, async workflows, secure APIs, and backend platforms that are reliable, observable, and easy to evolve.
-
-- **🔭 Actively contributing to open source — opened multiple pull requests across Java/Spring projects**
+Currently, I work as a **Senior Software Engineer at Airties**, focusing on AI-driven platforms for device intelligence, behavioral analytics, telemetry processing, and real-time risk assessment.
 
 ---
 
-## 🚀 Tech Stack
+## 🔧 Tech Stack
 
-### Backend
+### Backend & Platform Engineering
 
-![Java](https://img.shields.io/badge/Java-Backend-informational)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-informational)
-![REST API](https://img.shields.io/badge/REST-API-informational)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-informational)
-![Java Concurrency](https://img.shields.io/badge/Java-Concurrency-informational)
+- Java 8/11/17/21
+- Spring Boot, Spring MVC, Spring WebFlux, Spring Security, Spring Data
+- Microservices, REST APIs, API Design, Distributed Systems
+- Kafka, RabbitMQ, Redis
+- PostgreSQL, Cassandra, MySQL, TimescaleDB
 
-### Cloud & DevOps
+### Cloud, DevOps & Observability
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-informational)
-![Docker](https://img.shields.io/badge/Docker-Containerization-informational)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-informational)
-![ECS](https://img.shields.io/badge/ECS-Deployment-informational)
-![EKS](https://img.shields.io/badge/EKS-Deployment-informational)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-informational)
+- AWS, Docker, Kubernetes, OpenShift
+- GitHub Actions, CI/CD, Docker Compose
+- OpenTelemetry, Micrometer, Prometheus, Grafana
+- Logging, Metrics, Tracing, Production Debugging
 
-### AWS Services
+### Frontend & Full Stack
 
-![EC2](https://img.shields.io/badge/EC2-Compute-informational)
-![S3](https://img.shields.io/badge/S3-Storage-informational)
-![RDS](https://img.shields.io/badge/RDS-Database-informational)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-informational)
-![SQS](https://img.shields.io/badge/SQS-Messaging-informational)
-![SNS](https://img.shields.io/badge/SNS-PubSub-informational)
-![Lambda](https://img.shields.io/badge/Lambda-Serverless-informational)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-Observability-informational)
-![IAM](https://img.shields.io/badge/IAM-Security-informational)
-![API Gateway](https://img.shields.io/badge/API_Gateway-Managed_API-informational)
+- React, React Native, Angular
+- TypeScript, JavaScript, HTML, CSS
 
-### Data & Messaging
+### AI/ML & Platform Tooling
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-informational)
-![MySQL](https://img.shields.io/badge/MySQL-Database-informational)
-![Redis](https://img.shields.io/badge/Redis-Caching-informational)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming-informational)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-Frontend-informational)
-![React Native](https://img.shields.io/badge/React_Native-Mobile-informational)
-![Angular](https://img.shields.io/badge/Angular-Web-informational)
+- ML pipelines, anomaly detection, feature engineering
+- RAG-based operational tooling
+- Embeddings, retrieval workflows, intelligent platform tools
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 What I Work On
 
-### 🔹 AI Network & Device Diagnostics Agent
-
-AI-powered backend system for diagnosing network and device issues using telemetry, rules, and intelligent workflows.  
-**Tech:** Java, Spring Boot, AWS, Docker, AI Agent Patterns
-
-### 🔹 Open Banking Gateway
-
-Secure backend gateway for banking and open-finance integrations with authentication, authorization, consent, and audit workflows.  
-**Tech:** Spring Boot, Keycloak, Docker, OAuth2, API Gateway
-
-### 🔹 Cloud-Native Microservices Playground
-
-A hands-on project for practicing scalable service design patterns such as retries, async messaging, observability, and service decomposition.  
-**Tech:** Java, Spring Boot, Docker, Kubernetes, AWS
-
-### 🔹 Device Intelligence & Security Platform Concepts
-
-Architecture concepts inspired by real-world systems involving telemetry, policy enforcement, threat intelligence, and device classification.  
-**Tech:** Java, Spring Boot, Kafka, AWS, Distributed Systems
+- Building scalable Java/Spring Boot microservices and backend platforms
+- Designing event-driven systems using Kafka and RabbitMQ
+- Developing secure REST APIs and enterprise integrations
+- Improving system reliability, observability, and production performance
+- Exploring AI/ML-enabled backend platforms and intelligent operational tooling
+- Practicing system design, DSA, and real-world engineering problem solving
 
 ---
 
-## Code Quality & Security Practices
+## 🌍 Domain Experience
 
-I focus on writing clean, maintainable, and secure code using static analysis and automated quality checks.
+I have worked across multiple domains, including:
 
-**Tools I use:**
-
-- **Java:** SpotBugs, PMD, Checkstyle, Error Prone
-- **Python:** Ruff, Bandit, mypy, Pylint
-- **JavaScript/TypeScript:** ESLint, typescript-eslint, TypeScript compiler
-- **Security/SAST:** Semgrep, GitHub CodeQL, Snyk Code
-- **Code Quality:** SonarQube, SonarCloud
-- **CI/CD:** GitHub Actions quality gates and automated pull request scanning
-
----
-
-## 🚀 Open Source & Engineering Focus
-
-- Java, Spring Boot, React, React Native, Angular
-- AWS: EC2, ECS, EKS, S3, RDS, DynamoDB, SQS, SNS, Lambda, CloudWatch, IAM, API Gateway
-- AI Agents, Network Diagnostics, IoT Telemetry, Open Banking, Security Systems
-- Studying design patterns from large-scale open-source systems like Spring, ThingsBoard, Home Assistant, and LangChain4j
+- Financial Services & Open Banking
+- Travel Technology & Duty of Care Platforms
+- Video Streaming Platforms
+- Supply Chain & Warehouse Management
+- Mobility / Ride-Hailing Platforms
+- Cybersecurity & Trust Attestation
+- IoT, Device Intelligence & Network Intelligence
 
 ---
 
-## 🛠️ Current Focus
+## 🤝 Open Source Contributions
 
-- Contributing to Java, Python, and JavaScript open-source projects
-- Building AI-powered backend systems
-- Strengthening system design, design patterns, and cloud-native architecture
+I actively explore and contribute to open-source projects, especially in **Java, backend engineering, developer tooling, cloud-native systems, and AI/ML-enabled platforms**.
 
----
+- **Kong/unirest-java** — Contributed support for chained `MockClient` expectations, enabling ordered responses for repeated calls to the same endpoint.  
+  PR merged: https://github.com/Kong/unirest-java/pull/566
 
-## 🧠 Engineering Areas I Enjoy
+- Interested in practical improvements such as bug fixes, test coverage, documentation, API behavior refinements, and developer experience improvements.
 
-- Distributed Systems
-- Event-Driven Architecture
-- Cloud-Native Backend Design
-- Secure API Platforms
-- Async Messaging Systems
-- Observability & Reliability
-- Java Concurrency
-- AI Agent Backends
-- System Design
+- Exploring contribution opportunities across Java, Python, JavaScript, TypeScript, backend infrastructure, distributed systems, and cloud-native tooling.
 
 ---
 
-## 📚 Currently Exploring
+## 📌 Featured Focus Areas
 
-- Advanced Java Threads & Concurrency
-- AI Agent Orchestration
-- OSS contributions in the Java ecosystem
-- AWS-based production architecture
-- Design patterns from large-scale open-source systems
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=codingkiddo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github&v=3"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingkiddo&layout=compact&theme=dark&hide_border=true&langs_count=8&v=3"
-    alt="Most Used Languages"
-  />
-</p>
-
-## 🤝 Open to
-
-- Backend Engineer roles
-- Java / Spring Boot opportunities
-- AWS / Cloud platform engineering roles
-- Distributed systems and event-driven backend work
-- Open-source collaboration
-
----
-
-## 🔗 Connect With Me
-
-- 🌐 Website: [codingkiddo.com](https://www.codingkiddo.com)
-- 💻 GitHub: [github.com/codingkiddo](https://github.com/codingkiddo)
-- 🧠 LeetCode: [leetcode.com/u/codingkiddo](https://leetcode.com/u/codingkiddo/)
+```text
+Java | Spring Boot | Microservices | Kafka | AWS | Docker | Kubernetes
+React | TypeScript | PostgreSQL | Cassandra | Redis | Distributed Systems
+System Design | Open Source | AI/ML Platform Engineering
