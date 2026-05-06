@@ -170,7 +170,6 @@ I focus on writing clean, maintainable, and secure code using static analysis an
     alt="Most Used Languages"
   />
 </p>
----
 
 ## 🤝 Open to
 
