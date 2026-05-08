@@ -14,7 +14,7 @@ Currently, I work as a **Senior Software Engineer at Airties**, focusing on AI-d
 
 ### Backend & Platform Engineering
 
-- Java 8/11/17/21
+- Java 8 / 11 / 17 / 21
 - Spring Boot, Spring MVC, Spring WebFlux, Spring Security, Spring Data
 - Microservices, REST APIs, API Design, Distributed Systems
 - Kafka, RabbitMQ, Redis
@@ -75,6 +75,9 @@ I actively explore and contribute to open-source projects, especially in **Java,
 - **Apache CloudStack** — Improved test reliability by skipping `QemuImgTest` when native libvirt libraries cannot be loaded, avoiding false test failures on local environments without libvirt.  
   PR merged: https://github.com/apache/cloudstack/pull/13086
 
+- **Apache Empire-db** — Fixed an off-by-one bug in `StringUtils.lastIndexOfAny` start index handling and added test coverage.  
+  PR merged: https://github.com/apache/empire-db/pull/20
+
 - Interested in practical improvements such as bug fixes, test coverage, documentation, API behavior refinements, and developer experience improvements.
 
 - Exploring contribution opportunities across Java, Python, JavaScript, TypeScript, backend infrastructure, distributed systems, and cloud-native tooling.
@@ -87,3 +90,42 @@ I actively explore and contribute to open-source projects, especially in **Java,
 Java | Spring Boot | Microservices | Kafka | AWS | Docker | Kubernetes
 React | TypeScript | PostgreSQL | Cassandra | Redis | Distributed Systems
 System Design | Open Source | AI/ML Platform Engineering
+```
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=codingkiddo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github&v=5"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingkiddo&layout=compact&theme=dark&hide_border=true&langs_count=8&v=5"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 🤝 Open To
+
+- Backend Engineer roles
+- Java / Spring Boot opportunities
+- AWS / Cloud platform engineering roles
+- Distributed systems and event-driven backend work
+- Open-source collaboration
+
+---
+
+## 🔗 Connect With Me
+
+- Website: https://codingkiddo.com
+- GitHub: https://github.com/codingkiddo
+- LinkedIn: https://www.linkedin.com/in/vinod-kumar-87962818/
+- Medium: https://medium.com/@codingkiddo
+- LeetCode: https://leetcode.com/codingkiddo/
