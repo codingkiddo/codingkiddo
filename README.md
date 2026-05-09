@@ -38,6 +38,13 @@ Currently, I work as a **Senior Software Engineer at Airties**, focusing on AI-d
 - RAG-based operational tooling
 - Embeddings, retrieval workflows, intelligent platform tools
 
+### 🧠 Coding Practice
+
+- **LeetCode:** [codingkiddo](https://leetcode.com/u/codingkiddo/)
+- Solved **700+ problems**, primarily in **Java**
+- Earned **500 Days Badge** and **365 Days Badge**
+- Strong areas: **Dynamic Programming, Arrays, Hash Tables, Strings, Greedy, Math**
+  
 ---
 
 ## 🚀 What I Work On
