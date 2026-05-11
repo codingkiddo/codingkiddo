@@ -72,25 +72,37 @@ I have worked across multiple domains, including:
 
 ---
 
-## 🤝 Open Source Contributions
+## 🌍 Open Source Contributions
 
-I actively explore and contribute to open-source projects, especially in **Java, backend engineering, developer tooling, cloud-native systems, and AI/ML-enabled platforms**.
+I actively contribute to open-source Java ecosystem projects, focusing on code quality, test readability, bug fixes, CI improvements, and maintainability.
 
-- **Spring Framework** — Contributed a test-only readability cleanup in `HttpHeadersTests`, polishing collection usage and keeping behavior unchanged.  
-  PR merged: https://github.com/spring-projects/spring-framework/pull/36760
-  
-- **Kong/unirest-java** — Contributed support for chained `MockClient` expectations, enabling ordered responses for repeated calls to the same endpoint.  
-  PR merged: https://github.com/Kong/unirest-java/pull/566
+### Merged Pull Requests
 
-- **Apache CloudStack** — Improved test reliability by skipping `QemuImgTest` when native libvirt libraries cannot be loaded, avoiding false test failures on local environments without libvirt.  
-  PR merged: https://github.com/apache/cloudstack/pull/13086
+- **Spring Framework** — Improved test readability in `HttpHeadersTests` through safe collection usage cleanup.  
+  PR: https://github.com/spring-projects/spring-framework/pull/36760
 
-- **Apache Empire-db** — Fixed an off-by-one bug in `StringUtils.lastIndexOfAny` start index handling and added test coverage.  
-  PR merged: https://github.com/apache/empire-db/pull/20
+- **Apache Empire-db** — Fixed `StringUtils.lastIndexOfAny` start-index behavior and added tests.  
+  PR: https://github.com/apache/empire-db/pull/20
 
-- Interested in practical improvements such as bug fixes, test coverage, documentation, API behavior refinements, and developer experience improvements.
+- **Caffeine** — Simplified cache name snapshot creation for readability and maintainability.  
+  PR: https://github.com/ben-manes/caffeine/pull/1955
 
-- Exploring contribution opportunities across Java, Python, JavaScript, TypeScript, backend infrastructure, distributed systems, and cloud-native tooling.
+- **Kong Unirest Java** — Added support for chained `MockClient` expectations, enabling ordered responses for repeated calls.  
+  PR: https://github.com/Kong/unirest-java/pull/566
+
+- **Apache CloudStack** — Improved test stability by skipping `QemuImgTest` when the libvirt native library cannot load.  
+  PR: https://github.com/apache/cloudstack/pull/13086
+
+- **Kong Unirest Java** — Fixed GitHub Actions JDK setup label.  
+  PR: https://github.com/Kong/unirest-java/pull/565
+
+### Contribution Focus
+
+- Java, Spring, backend engineering
+- Test readability and maintainability
+- CI/build stability
+- Bug fixes with regression tests
+- Safe refactoring in mature codebases
 
 ---
 
