@@ -76,6 +76,9 @@ I have worked across multiple domains, including:
 
 I actively explore and contribute to open-source projects, especially in **Java, backend engineering, developer tooling, cloud-native systems, and AI/ML-enabled platforms**.
 
+- **Spring Framework** — Contributed a test-only readability cleanup in `HttpHeadersTests`, polishing collection usage and keeping behavior unchanged.  
+  PR merged: https://github.com/spring-projects/spring-framework/pull/36760
+  
 - **Kong/unirest-java** — Contributed support for chained `MockClient` expectations, enabling ordered responses for repeated calls to the same endpoint.  
   PR merged: https://github.com/Kong/unirest-java/pull/566
 
