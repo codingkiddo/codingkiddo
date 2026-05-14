@@ -72,37 +72,51 @@ I have worked across multiple domains, including:
 
 ---
 
-## 🌍 Open Source Contributions
+## 🤝 Open Source Contributions
 
-I actively contribute to open-source Java ecosystem projects, focusing on code quality, test readability, bug fixes, CI improvements, and maintainability.
+I actively contribute to open-source projects across the **Java ecosystem, backend engineering, developer tooling, cloud-native systems, test reliability, diagnostics, and code maintainability**.
 
-### Merged Pull Requests
+### ✅ Merged Pull Requests
 
-- **Spring Framework** — Improved test readability in `HttpHeadersTests` through safe collection usage cleanup.  
-  PR: https://github.com/spring-projects/spring-framework/pull/36760
+- **Spring Boot** — Polished code to use Java `instanceof` pattern matching in condition handling, improving readability and removing redundant casts.  
+  PR merged: https://github.com/spring-projects/spring-boot/pull/50419
 
-- **Apache Empire-db** — Fixed `StringUtils.lastIndexOfAny` start-index behavior and added tests.  
-  PR: https://github.com/apache/empire-db/pull/20
+- **Apache Seata** — Removed an external network dependency from `HttpClientUtilTest`, making the test suite more reliable and deterministic.  
+  PR merged: https://github.com/apache/incubator-seata/pull/8099
 
-- **Caffeine** — Simplified cache name snapshot creation for readability and maintainability.  
-  PR: https://github.com/ben-manes/caffeine/pull/1955
+- **Floci** — Refactored digest encoding to use JDK `HexFormat`, replacing manual byte-to-hex conversion with a cleaner standard-library approach.  
+  PR merged: https://github.com/floci-io/floci/pull/772
 
-- **Kong Unirest Java** — Added support for chained `MockClient` expectations, enabling ordered responses for repeated calls.  
-  PR: https://github.com/Kong/unirest-java/pull/566
+- **Byte Buddy** — Improved diagnostics for external agent attachment by enhancing the generated debugging output for troubleshooting attachment failures.  
+  PR merged: https://github.com/raphw/byte-buddy/pull/1901
 
-- **Apache CloudStack** — Improved test stability by skipping `QemuImgTest` when the libvirt native library cannot load.  
-  PR: https://github.com/apache/cloudstack/pull/13086
+- **Apache Empire-db** — Fixed an off-by-one issue in `StringUtils.lastIndexOfAny` and added test coverage for the corrected behavior.  
+  PR merged: https://github.com/apache/empire-db/pull/20
 
-- **Kong Unirest Java** — Fixed GitHub Actions JDK setup label.  
-  PR: https://github.com/Kong/unirest-java/pull/565
+- **Caffeine** — Simplified cache name snapshot creation while preserving behavior and improving implementation clarity.  
+  PR merged: https://github.com/ben-manes/caffeine/pull/1955
 
-### Contribution Focus
+- **Spring Framework** — Polished collection usage in `HttpHeadersTests`, improving test readability and modernizing collection construction.  
+  PR merged: https://github.com/spring-projects/spring-framework/pull/36760
 
-- Java, Spring, backend engineering
-- Test readability and maintainability
-- CI/build stability
-- Bug fixes with regression tests
-- Safe refactoring in mature codebases
+- **Kong/unirest-java** — Added support for chained `MockClient` expectations, enabling ordered responses for repeated calls to the same endpoint.  
+  PR merged: https://github.com/Kong/unirest-java/pull/566
+
+- **Apache CloudStack** — Improved test robustness by skipping `QemuImgTest` when the native libvirt library cannot be loaded.  
+  PR merged: https://github.com/apache/cloudstack/pull/13086
+
+- **Kong/unirest-java** — Fixed the GitHub Actions JDK setup label to correctly match the configured Java version.  
+  PR merged: https://github.com/Kong/unirest-java/pull/565
+
+### 🎯 Contribution Focus
+
+- Java ecosystem libraries and frameworks
+- Backend and developer tooling
+- Test reliability and flaky-test reduction
+- Code readability and modernization
+- Diagnostics and troubleshooting improvements
+- Bug fixes with targeted unit test coverage
+- CI/build clarity and contributor experience
 
 ---
 
