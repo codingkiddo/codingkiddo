@@ -78,6 +78,9 @@ I actively contribute to open-source projects across the **Java ecosystem, backe
 
 ### ✅ Merged Pull Requests
 
+- **Jenkins** — Replaced sleep-based waits in `QueueTest` with Awaitility-based condition polling, improving test readability and reducing timing assumptions.  
+  PR merged: https://github.com/jenkinsci/jenkins/pull/26786
+
 - **Spring Boot** — Polished code to use Java `instanceof` pattern matching in condition handling, improving readability and removing redundant casts.  
   PR merged: https://github.com/spring-projects/spring-boot/pull/50419
 
