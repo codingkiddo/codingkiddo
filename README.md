@@ -24,14 +24,38 @@ Currently, I work as a **Senior Software Engineer at Airties**, focusing on AI-d
 I actively contribute to open-source projects across the **Java ecosystem, Spring ecosystem, backend engineering, developer tooling, cloud-native systems, test reliability, diagnostics, and code maintainability**.
 
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <!-- Latest / Recent OSS PRs -->
+  <img src="https://img.shields.io/badge/Floci-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/testcontainers--floci-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Micrometer-4B32C3?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud_OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_Admin-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+  <!-- Spring Ecosystem -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud_Task-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud_Open_Service_Broker-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI_Alibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_PetClinic-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+  <!-- Java / Testing / Tooling -->
+  <img src="https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Byte_Buddy-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Caffeine-6F4E37?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" />
-  <img src="https://img.shields.io/badge/Floci-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uber_NullAway-000000?style=for-the-badge&logo=uber&logoColor=white" />
+
+  <!-- Apache Projects -->
+  <img src="https://img.shields.io/badge/Apache_Dubbo-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Empire--db-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Seata-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_CloudStack-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+
+  <!-- API / HTTP Libraries -->
+  <img src="https://img.shields.io/badge/Kong_Unirest-003459?style=for-the-badge&logo=kong&logoColor=white" />
 </p>
 
 ### Open Source Impact
@@ -185,3 +209,4 @@ I have worked across multiple domains, including:
 Java | Spring Boot | Microservices | Kafka | AWS | Docker | Kubernetes
 React | TypeScript | PostgreSQL | Cassandra | Redis | Distributed Systems
 System Design | Open Source | AI/ML Platform Engineering
+```
