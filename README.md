@@ -34,7 +34,19 @@ I actively contribute to open-source projects across the **Java ecosystem, Sprin
   <img src="https://img.shields.io/badge/Floci-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### ✅ Merged Pull Requests
+### Open Source Impact
+
+25+ merged PRs across Java/Spring ecosystem projects including Spring Boot, Spring Framework, Mockito, Jenkins, Byte Buddy, Apache Dubbo, Apache Seata, Micrometer, JUnit, Caffeine, Floci, and Testcontainers-related tooling.
+
+Focus areas:
+- Java modernization
+- Test reliability
+- Documentation clarity
+- Type-safety improvements
+- Framework-level code cleanup
+- Diagnostics and developer experience
+
+#### ✅ Merged Pull Requests
 
 | Project                              | Contribution                                                                                                                                   | PR                                                                                     |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
