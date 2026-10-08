@@ -19,9 +19,9 @@ Currently a **Senior Software Engineer at Airties**, working on device intellige
 
 I contribute bug fixes, regression tests, clearer diagnostics, and reliability improvements to frameworks and developer tools.
 
-![Merged open-source contributions by repository](assets/open-source-impact.svg)
+![Isometric calendar of merged open-source contributions](assets/open-source-impact.svg)
 
-*Public merged pull requests authored by codingkiddo, excluding my own repositories. Refreshed weekly. Counts measure contribution activity, not contribution size or complexity.*
+*Public merged pull requests authored by codingkiddo, excluding my own repositories. The calendar uses actual merge dates over the last 365 days; totals cover all time. Refreshed weekly. Counts measure contribution activity, not contribution size or complexity.*
 
 ## Selected projects
 

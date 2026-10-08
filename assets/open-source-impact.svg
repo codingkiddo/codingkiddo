@@ -1,57 +1,846 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="740" viewBox="0 0 1000 740" role="img" aria-labelledby="title desc">
-<title id="title">Merged open-source contributions by repository</title>
-<desc id="desc">47 public merged pull requests across 28 external repositories. Updated 2026-10-08.</desc>
-<rect width="1000" height="740" rx="16" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="490" viewBox="0 0 1100 490" role="img" aria-labelledby="title desc">
+<title id="title">Open-source contribution calendar</title>
+<desc id="desc">47 public merged pull requests across 28 external repositories. Calendar shows 47 merges on 38 days in the last 365 days, by UTC merge date.</desc>
+<rect width="1100" height="490" rx="20" fill="#0d1520"/>
 <g font-family="Arial, sans-serif" fill="#e6edf3">
-<text x="30" y="42" font-size="23" font-weight="bold">Open-source impact</text>
-<text x="30" y="73" font-size="16">47 merged PRs · 28 repositories</text>
-<text x="30" y="129" font-size="13">floci-io/floci</text>
-<rect x="440" y="112" width="283.1" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="129" font-size="14">8</text>
-<text x="30" y="164" font-size="13">Kong/unirest-java</text>
-<rect x="440" y="147" width="176.9" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="164" font-size="14">5</text>
-<text x="30" y="199" font-size="13">spring-projects/spring-boot</text>
-<rect x="440" y="182" width="106.2" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="199" font-size="14">3</text>
-<text x="30" y="234" font-size="13">codecentric/spring-boot-admin</text>
-<rect x="440" y="217" width="70.8" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="234" font-size="14">2</text>
-<text x="30" y="269" font-size="13">floci-io/testcontainers-floci</text>
-<rect x="440" y="252" width="70.8" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="269" font-size="14">2</text>
-<text x="30" y="304" font-size="13">junit-team/junit-framework</text>
-<rect x="440" y="287" width="70.8" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="304" font-size="14">2</text>
-<text x="30" y="339" font-size="13">piomin/spring-boot-logging</text>
-<rect x="440" y="322" width="70.8" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="339" font-size="14">2</text>
-<text x="30" y="374" font-size="13">spring-petclinic/spring-petclinic-microservices</text>
-<rect x="440" y="357" width="70.8" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="374" font-size="14">2</text>
-<text x="30" y="409" font-size="13">uber/NullAway</text>
-<rect x="440" y="392" width="70.8" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="409" font-size="14">2</text>
-<text x="30" y="444" font-size="13">alibaba/spring-ai-alibaba</text>
-<rect x="440" y="427" width="35.4" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="444" font-size="14">1</text>
-<text x="30" y="479" font-size="13">apache/cloudstack</text>
-<rect x="440" y="462" width="35.4" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="479" font-size="14">1</text>
-<text x="30" y="514" font-size="13">apache/dubbo</text>
-<rect x="440" y="497" width="35.4" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="514" font-size="14">1</text>
-<text x="30" y="549" font-size="13">apache/empire-db</text>
-<rect x="440" y="532" width="35.4" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="549" font-size="14">1</text>
-<text x="30" y="584" font-size="13">apache/incubator-seata</text>
-<rect x="440" y="567" width="35.4" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="584" font-size="14">1</text>
-<text x="30" y="619" font-size="13">ben-manes/caffeine</text>
-<rect x="440" y="602" width="35.4" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="619" font-size="14">1</text>
-<text x="30" y="654" font-size="13">Other repositories</text>
-<rect x="440" y="637" width="460.0" height="23" rx="4" fill="#58a6ff"/>
-<text x="920" y="654" font-size="14">13</text>
-<text x="30" y="717" font-size="12" fill="#8b949e">Public external repositories · top 15 + others · updated 2026-10-08 UTC</text>
+<text x="36" y="42" font-size="12" letter-spacing="3" fill="#48d6a0">CODINGKIDDO / OPEN SOURCE</text>
+<text x="36" y="78" font-size="27" font-weight="bold">Small fixes. Lasting impact.</text>
+<rect x="36" y="104" width="326" height="86" rx="12" fill="#132232" stroke="#243749"/>
+<text x="54" y="143" font-size="30" font-weight="bold">47</text>
+<text x="54" y="170" font-size="11" letter-spacing="1" fill="#9fb3c8">MERGED PRs · ALL TIME</text>
+<rect x="381" y="104" width="326" height="86" rx="12" fill="#132232" stroke="#243749"/>
+<text x="399" y="143" font-size="30" font-weight="bold">28</text>
+<text x="399" y="170" font-size="11" letter-spacing="1" fill="#9fb3c8">EXTERNAL REPOSITORIES</text>
+<rect x="726" y="104" width="326" height="86" rx="12" fill="#132232" stroke="#243749"/>
+<text x="744" y="143" font-size="30" font-weight="bold">47</text>
+<text x="744" y="170" font-size="11" letter-spacing="1" fill="#9fb3c8">MERGES · LAST 365 DAYS</text>
+<text x="36" y="226" font-size="14" fill="#9fb3c8">Merge activity / rolling year</text>
+<g><title>2025-10-09: 0 merged PRs</title>
+<polygon points="164,292.0 178,288.0 188,295.0 174,299.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-10: 0 merged PRs</title>
+<polygon points="175,300.0 189,296.0 199,303.0 185,307.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-11: 0 merged PRs</title>
+<polygon points="186,308.0 200,304.0 210,311.0 196,315.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-12: 0 merged PRs</title>
+<polygon points="136,259.72 150,255.72000000000003 160,262.72 146,266.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-13: 0 merged PRs</title>
+<polygon points="147,267.72 161,263.72 171,270.72 157,274.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-14: 0 merged PRs</title>
+<polygon points="158,275.72 172,271.72 182,278.72 168,282.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-15: 0 merged PRs</title>
+<polygon points="169,283.72 183,279.72 193,286.72 179,290.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-16: 0 merged PRs</title>
+<polygon points="180,291.72 194,287.72 204,294.72 190,298.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-17: 0 merged PRs</title>
+<polygon points="191,299.72 205,295.72 215,302.72 201,306.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-18: 0 merged PRs</title>
+<polygon points="202,307.72 216,303.72 226,310.72 212,314.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-19: 0 merged PRs</title>
+<polygon points="152,259.44 166,255.44 176,262.44 162,266.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-20: 0 merged PRs</title>
+<polygon points="163,267.44 177,263.44 187,270.44 173,274.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-21: 0 merged PRs</title>
+<polygon points="174,275.44 188,271.44 198,278.44 184,282.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-22: 0 merged PRs</title>
+<polygon points="185,283.44 199,279.44 209,286.44 195,290.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-23: 0 merged PRs</title>
+<polygon points="196,291.44 210,287.44 220,294.44 206,298.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-24: 0 merged PRs</title>
+<polygon points="207,299.44 221,295.44 231,302.44 217,306.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-25: 0 merged PRs</title>
+<polygon points="218,307.44 232,303.44 242,310.44 228,314.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-26: 0 merged PRs</title>
+<polygon points="168,259.16 182,255.16000000000003 192,262.16 178,266.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-27: 0 merged PRs</title>
+<polygon points="179,267.16 193,263.16 203,270.16 189,274.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-28: 0 merged PRs</title>
+<polygon points="190,275.16 204,271.16 214,278.16 200,282.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-29: 0 merged PRs</title>
+<polygon points="201,283.16 215,279.16 225,286.16 211,290.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-30: 0 merged PRs</title>
+<polygon points="212,291.16 226,287.16 236,294.16 222,298.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-10-31: 0 merged PRs</title>
+<polygon points="223,299.16 237,295.16 247,302.16 233,306.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-01: 0 merged PRs</title>
+<polygon points="234,307.16 248,303.16 258,310.16 244,314.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-02: 0 merged PRs</title>
+<polygon points="184,258.88 198,254.88 208,261.88 194,265.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="184" y="357.88" font-size="11" fill="#9fb3c8">Nov</text>
+<g><title>2025-11-03: 0 merged PRs</title>
+<polygon points="195,266.88 209,262.88 219,269.88 205,273.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-04: 0 merged PRs</title>
+<polygon points="206,274.88 220,270.88 230,277.88 216,281.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-05: 0 merged PRs</title>
+<polygon points="217,282.88 231,278.88 241,285.88 227,289.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-06: 0 merged PRs</title>
+<polygon points="228,290.88 242,286.88 252,293.88 238,297.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-07: 0 merged PRs</title>
+<polygon points="239,298.88 253,294.88 263,301.88 249,305.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-08: 0 merged PRs</title>
+<polygon points="250,306.88 264,302.88 274,309.88 260,313.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-09: 0 merged PRs</title>
+<polygon points="200,258.6 214,254.60000000000002 224,261.6 210,265.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-10: 0 merged PRs</title>
+<polygon points="211,266.6 225,262.6 235,269.6 221,273.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-11: 0 merged PRs</title>
+<polygon points="222,274.6 236,270.6 246,277.6 232,281.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-12: 0 merged PRs</title>
+<polygon points="233,282.6 247,278.6 257,285.6 243,289.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-13: 0 merged PRs</title>
+<polygon points="244,290.6 258,286.6 268,293.6 254,297.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-14: 0 merged PRs</title>
+<polygon points="255,298.6 269,294.6 279,301.6 265,305.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-15: 0 merged PRs</title>
+<polygon points="266,306.6 280,302.6 290,309.6 276,313.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-16: 0 merged PRs</title>
+<polygon points="216,258.32 230,254.32 240,261.32 226,265.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-17: 0 merged PRs</title>
+<polygon points="227,266.32 241,262.32 251,269.32 237,273.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-18: 0 merged PRs</title>
+<polygon points="238,274.32 252,270.32 262,277.32 248,281.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-19: 0 merged PRs</title>
+<polygon points="249,282.32 263,278.32 273,285.32 259,289.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-20: 0 merged PRs</title>
+<polygon points="260,290.32 274,286.32 284,293.32 270,297.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-21: 0 merged PRs</title>
+<polygon points="271,298.32 285,294.32 295,301.32 281,305.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-22: 0 merged PRs</title>
+<polygon points="282,306.32 296,302.32 306,309.32 292,313.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-23: 0 merged PRs</title>
+<polygon points="232,258.04 246,254.04000000000002 256,261.04 242,265.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-24: 0 merged PRs</title>
+<polygon points="243,266.04 257,262.04 267,269.04 253,273.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-25: 0 merged PRs</title>
+<polygon points="254,274.04 268,270.04 278,277.04 264,281.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-26: 0 merged PRs</title>
+<polygon points="265,282.04 279,278.04 289,285.04 275,289.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-27: 0 merged PRs</title>
+<polygon points="276,290.04 290,286.04 300,293.04 286,297.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-28: 0 merged PRs</title>
+<polygon points="287,298.04 301,294.04 311,301.04 297,305.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-29: 0 merged PRs</title>
+<polygon points="298,306.04 312,302.04 322,309.04 308,313.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-11-30: 0 merged PRs</title>
+<polygon points="248,257.76 262,253.76 272,260.76 258,264.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-01: 0 merged PRs</title>
+<polygon points="259,265.76 273,261.76 283,268.76 269,272.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-02: 0 merged PRs</title>
+<polygon points="270,273.76 284,269.76 294,276.76 280,280.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-03: 0 merged PRs</title>
+<polygon points="281,281.76 295,277.76 305,284.76 291,288.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-04: 0 merged PRs</title>
+<polygon points="292,289.76 306,285.76 316,292.76 302,296.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-05: 0 merged PRs</title>
+<polygon points="303,297.76 317,293.76 327,300.76 313,304.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-06: 0 merged PRs</title>
+<polygon points="314,305.76 328,301.76 338,308.76 324,312.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-07: 0 merged PRs</title>
+<polygon points="264,257.48 278,253.48000000000002 288,260.48 274,264.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="264" y="356.48" font-size="11" fill="#9fb3c8">Dec</text>
+<g><title>2025-12-08: 0 merged PRs</title>
+<polygon points="275,265.48 289,261.48 299,268.48 285,272.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-09: 0 merged PRs</title>
+<polygon points="286,273.48 300,269.48 310,276.48 296,280.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-10: 0 merged PRs</title>
+<polygon points="297,281.48 311,277.48 321,284.48 307,288.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-11: 0 merged PRs</title>
+<polygon points="308,289.48 322,285.48 332,292.48 318,296.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-12: 0 merged PRs</title>
+<polygon points="319,297.48 333,293.48 343,300.48 329,304.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-13: 0 merged PRs</title>
+<polygon points="330,305.48 344,301.48 354,308.48 340,312.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-14: 0 merged PRs</title>
+<polygon points="280,257.2 294,253.2 304,260.2 290,264.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-15: 0 merged PRs</title>
+<polygon points="291,265.2 305,261.2 315,268.2 301,272.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-16: 0 merged PRs</title>
+<polygon points="302,273.2 316,269.2 326,276.2 312,280.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-17: 0 merged PRs</title>
+<polygon points="313,281.2 327,277.2 337,284.2 323,288.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-18: 0 merged PRs</title>
+<polygon points="324,289.2 338,285.2 348,292.2 334,296.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-19: 0 merged PRs</title>
+<polygon points="335,297.2 349,293.2 359,300.2 345,304.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-20: 0 merged PRs</title>
+<polygon points="346,305.2 360,301.2 370,308.2 356,312.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-21: 0 merged PRs</title>
+<polygon points="296,256.92 310,252.92000000000002 320,259.92 306,263.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-22: 0 merged PRs</title>
+<polygon points="307,264.92 321,260.92 331,267.92 317,271.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-23: 0 merged PRs</title>
+<polygon points="318,272.92 332,268.92 342,275.92 328,279.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-24: 0 merged PRs</title>
+<polygon points="329,280.92 343,276.92 353,283.92 339,287.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-25: 0 merged PRs</title>
+<polygon points="340,288.92 354,284.92 364,291.92 350,295.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-26: 0 merged PRs</title>
+<polygon points="351,296.92 365,292.92 375,299.92 361,303.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-27: 0 merged PRs</title>
+<polygon points="362,304.92 376,300.92 386,307.92 372,311.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-28: 0 merged PRs</title>
+<polygon points="312,256.64 326,252.64 336,259.64 322,263.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-29: 0 merged PRs</title>
+<polygon points="323,264.64 337,260.64 347,267.64 333,271.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-30: 0 merged PRs</title>
+<polygon points="334,272.64 348,268.64 358,275.64 344,279.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2025-12-31: 0 merged PRs</title>
+<polygon points="345,280.64 359,276.64 369,283.64 355,287.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-01: 0 merged PRs</title>
+<polygon points="356,288.64 370,284.64 380,291.64 366,295.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-02: 0 merged PRs</title>
+<polygon points="367,296.64 381,292.64 391,299.64 377,303.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-03: 0 merged PRs</title>
+<polygon points="378,304.64 392,300.64 402,307.64 388,311.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-04: 0 merged PRs</title>
+<polygon points="328,256.36 342,252.36 352,259.36 338,263.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="328" y="355.36" font-size="11" fill="#9fb3c8">Jan</text>
+<g><title>2026-01-05: 0 merged PRs</title>
+<polygon points="339,264.36 353,260.36 363,267.36 349,271.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-06: 0 merged PRs</title>
+<polygon points="350,272.36 364,268.36 374,275.36 360,279.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-07: 0 merged PRs</title>
+<polygon points="361,280.36 375,276.36 385,283.36 371,287.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-08: 0 merged PRs</title>
+<polygon points="372,288.36 386,284.36 396,291.36 382,295.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-09: 0 merged PRs</title>
+<polygon points="383,296.36 397,292.36 407,299.36 393,303.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-10: 0 merged PRs</title>
+<polygon points="394,304.36 408,300.36 418,307.36 404,311.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-11: 0 merged PRs</title>
+<polygon points="344,256.08 358,252.07999999999998 368,259.08 354,263.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-12: 0 merged PRs</title>
+<polygon points="355,264.08 369,260.08 379,267.08 365,271.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-13: 0 merged PRs</title>
+<polygon points="366,272.08 380,268.08 390,275.08 376,279.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-14: 0 merged PRs</title>
+<polygon points="377,280.08 391,276.08 401,283.08 387,287.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-15: 0 merged PRs</title>
+<polygon points="388,288.08 402,284.08 412,291.08 398,295.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-16: 0 merged PRs</title>
+<polygon points="399,296.08 413,292.08 423,299.08 409,303.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-17: 0 merged PRs</title>
+<polygon points="410,304.08 424,300.08 434,307.08 420,311.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-18: 0 merged PRs</title>
+<polygon points="360,255.8 374,251.8 384,258.8 370,262.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-19: 0 merged PRs</title>
+<polygon points="371,263.8 385,259.8 395,266.8 381,270.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-20: 0 merged PRs</title>
+<polygon points="382,271.8 396,267.8 406,274.8 392,278.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-21: 0 merged PRs</title>
+<polygon points="393,279.8 407,275.8 417,282.8 403,286.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-22: 0 merged PRs</title>
+<polygon points="404,287.8 418,283.8 428,290.8 414,294.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-23: 0 merged PRs</title>
+<polygon points="415,295.8 429,291.8 439,298.8 425,302.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-24: 0 merged PRs</title>
+<polygon points="426,303.8 440,299.8 450,306.8 436,310.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-25: 0 merged PRs</title>
+<polygon points="376,255.52 390,251.52 400,258.52 386,262.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-26: 0 merged PRs</title>
+<polygon points="387,263.52 401,259.52 411,266.52 397,270.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-27: 0 merged PRs</title>
+<polygon points="398,271.52 412,267.52 422,274.52 408,278.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-28: 0 merged PRs</title>
+<polygon points="409,279.52 423,275.52 433,282.52 419,286.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-29: 0 merged PRs</title>
+<polygon points="420,287.52 434,283.52 444,290.52 430,294.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-30: 0 merged PRs</title>
+<polygon points="431,295.52 445,291.52 455,298.52 441,302.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-01-31: 0 merged PRs</title>
+<polygon points="442,303.52 456,299.52 466,306.52 452,310.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-01: 0 merged PRs</title>
+<polygon points="392,255.24 406,251.24 416,258.24 402,262.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="392" y="354.24" font-size="11" fill="#9fb3c8">Feb</text>
+<g><title>2026-02-02: 0 merged PRs</title>
+<polygon points="403,263.24 417,259.24 427,266.24 413,270.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-03: 0 merged PRs</title>
+<polygon points="414,271.24 428,267.24 438,274.24 424,278.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-04: 0 merged PRs</title>
+<polygon points="425,279.24 439,275.24 449,282.24 435,286.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-05: 0 merged PRs</title>
+<polygon points="436,287.24 450,283.24 460,290.24 446,294.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-06: 0 merged PRs</title>
+<polygon points="447,295.24 461,291.24 471,298.24 457,302.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-07: 0 merged PRs</title>
+<polygon points="458,303.24 472,299.24 482,306.24 468,310.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-08: 0 merged PRs</title>
+<polygon points="408,254.96 422,250.96 432,257.96000000000004 418,261.96000000000004" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-09: 0 merged PRs</title>
+<polygon points="419,262.96 433,258.96 443,265.96 429,269.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-10: 0 merged PRs</title>
+<polygon points="430,270.96 444,266.96 454,273.96 440,277.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-11: 0 merged PRs</title>
+<polygon points="441,278.96 455,274.96 465,281.96 451,285.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-12: 0 merged PRs</title>
+<polygon points="452,286.96 466,282.96 476,289.96 462,293.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-13: 0 merged PRs</title>
+<polygon points="463,294.96 477,290.96 487,297.96 473,301.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-14: 0 merged PRs</title>
+<polygon points="474,302.96 488,298.96 498,305.96 484,309.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-15: 0 merged PRs</title>
+<polygon points="424,254.68 438,250.68 448,257.68 434,261.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-16: 0 merged PRs</title>
+<polygon points="435,262.68 449,258.68 459,265.68 445,269.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-17: 0 merged PRs</title>
+<polygon points="446,270.68 460,266.68 470,273.68 456,277.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-18: 0 merged PRs</title>
+<polygon points="457,278.68 471,274.68 481,281.68 467,285.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-19: 0 merged PRs</title>
+<polygon points="468,286.68 482,282.68 492,289.68 478,293.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-20: 0 merged PRs</title>
+<polygon points="479,294.68 493,290.68 503,297.68 489,301.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-21: 0 merged PRs</title>
+<polygon points="490,302.68 504,298.68 514,305.68 500,309.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-22: 0 merged PRs</title>
+<polygon points="440,254.4 454,250.4 464,257.4 450,261.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-23: 0 merged PRs</title>
+<polygon points="451,262.4 465,258.4 475,265.4 461,269.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-24: 0 merged PRs</title>
+<polygon points="462,270.4 476,266.4 486,273.4 472,277.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-25: 0 merged PRs</title>
+<polygon points="473,278.4 487,274.4 497,281.4 483,285.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-26: 0 merged PRs</title>
+<polygon points="484,286.4 498,282.4 508,289.4 494,293.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-27: 0 merged PRs</title>
+<polygon points="495,294.4 509,290.4 519,297.4 505,301.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-02-28: 0 merged PRs</title>
+<polygon points="506,302.4 520,298.4 530,305.4 516,309.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-01: 0 merged PRs</title>
+<polygon points="456,254.12 470,250.12 480,257.12 466,261.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="456" y="353.12" font-size="11" fill="#9fb3c8">Mar</text>
+<g><title>2026-03-02: 0 merged PRs</title>
+<polygon points="467,262.12 481,258.12 491,265.12 477,269.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-03: 0 merged PRs</title>
+<polygon points="478,270.12 492,266.12 502,273.12 488,277.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-04: 0 merged PRs</title>
+<polygon points="489,278.12 503,274.12 513,281.12 499,285.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-05: 0 merged PRs</title>
+<polygon points="500,286.12 514,282.12 524,289.12 510,293.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-06: 0 merged PRs</title>
+<polygon points="511,294.12 525,290.12 535,297.12 521,301.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-07: 0 merged PRs</title>
+<polygon points="522,302.12 536,298.12 546,305.12 532,309.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-08: 0 merged PRs</title>
+<polygon points="472,253.84 486,249.84 496,256.84000000000003 482,260.84000000000003" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-09: 0 merged PRs</title>
+<polygon points="483,261.84 497,257.84 507,264.84 493,268.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-10: 0 merged PRs</title>
+<polygon points="494,269.84 508,265.84 518,272.84 504,276.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-11: 0 merged PRs</title>
+<polygon points="505,277.84 519,273.84 529,280.84 515,284.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-12: 0 merged PRs</title>
+<polygon points="516,285.84 530,281.84 540,288.84 526,292.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-13: 0 merged PRs</title>
+<polygon points="527,293.84 541,289.84 551,296.84 537,300.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-14: 0 merged PRs</title>
+<polygon points="538,301.84 552,297.84 562,304.84 548,308.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-15: 0 merged PRs</title>
+<polygon points="488,253.56 502,249.56 512,256.56 498,260.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-16: 0 merged PRs</title>
+<polygon points="499,261.56 513,257.56 523,264.56 509,268.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-17: 0 merged PRs</title>
+<polygon points="510,269.56 524,265.56 534,272.56 520,276.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-18: 0 merged PRs</title>
+<polygon points="521,277.56 535,273.56 545,280.56 531,284.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-19: 0 merged PRs</title>
+<polygon points="532,285.56 546,281.56 556,288.56 542,292.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-20: 0 merged PRs</title>
+<polygon points="543,293.56 557,289.56 567,296.56 553,300.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-21: 0 merged PRs</title>
+<polygon points="554,301.56 568,297.56 578,304.56 564,308.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-22: 0 merged PRs</title>
+<polygon points="504,253.28 518,249.28 528,256.28 514,260.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-23: 0 merged PRs</title>
+<polygon points="515,261.28 529,257.28 539,264.28 525,268.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-24: 0 merged PRs</title>
+<polygon points="526,269.28 540,265.28 550,272.28 536,276.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-25: 0 merged PRs</title>
+<polygon points="537,277.28 551,273.28 561,280.28 547,284.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-26: 0 merged PRs</title>
+<polygon points="548,285.28 562,281.28 572,288.28 558,292.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-27: 0 merged PRs</title>
+<polygon points="559,293.28 573,289.28 583,296.28 569,300.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-28: 0 merged PRs</title>
+<polygon points="570,301.28 584,297.28 594,304.28 580,308.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-29: 0 merged PRs</title>
+<polygon points="520,253.0 534,249.0 544,256.0 530,260.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-30: 0 merged PRs</title>
+<polygon points="531,261.0 545,257.0 555,264.0 541,268.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-03-31: 0 merged PRs</title>
+<polygon points="542,269.0 556,265.0 566,272.0 552,276.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-01: 0 merged PRs</title>
+<polygon points="553,277.0 567,273.0 577,280.0 563,284.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-02: 0 merged PRs</title>
+<polygon points="564,285.0 578,281.0 588,288.0 574,292.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-03: 0 merged PRs</title>
+<polygon points="575,293.0 589,289.0 599,296.0 585,300.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-04: 0 merged PRs</title>
+<polygon points="586,301.0 600,297.0 610,304.0 596,308.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-05: 0 merged PRs</title>
+<polygon points="536,252.72 550,248.72 560,255.72 546,259.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="536" y="351.72" font-size="11" fill="#9fb3c8">Apr</text>
+<g><title>2026-04-06: 0 merged PRs</title>
+<polygon points="547,260.72 561,256.72 571,263.72 557,267.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-07: 0 merged PRs</title>
+<polygon points="558,268.72 572,264.72 582,271.72 568,275.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-08: 0 merged PRs</title>
+<polygon points="569,276.72 583,272.72 593,279.72 579,283.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-09: 0 merged PRs</title>
+<polygon points="580,284.72 594,280.72 604,287.72 590,291.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-10: 0 merged PRs</title>
+<polygon points="591,292.72 605,288.72 615,295.72 601,299.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-11: 0 merged PRs</title>
+<polygon points="602,300.72 616,296.72 626,303.72 612,307.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-12: 0 merged PRs</title>
+<polygon points="552,252.44 566,248.44 576,255.44 562,259.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-13: 0 merged PRs</title>
+<polygon points="563,260.44 577,256.44 587,263.44 573,267.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-14: 0 merged PRs</title>
+<polygon points="574,268.44 588,264.44 598,271.44 584,275.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-15: 0 merged PRs</title>
+<polygon points="585,276.44 599,272.44 609,279.44 595,283.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-16: 0 merged PRs</title>
+<polygon points="596,284.44 610,280.44 620,287.44 606,291.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-17: 0 merged PRs</title>
+<polygon points="607,292.44 621,288.44 631,295.44 617,299.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-18: 0 merged PRs</title>
+<polygon points="618,300.44 632,296.44 642,303.44 628,307.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-19: 0 merged PRs</title>
+<polygon points="568,252.16 582,248.16 592,255.16 578,259.15999999999997" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-20: 0 merged PRs</title>
+<polygon points="579,260.16 593,256.16 603,263.16 589,267.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-21: 0 merged PRs</title>
+<polygon points="590,268.16 604,264.16 614,271.16 600,275.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-22: 0 merged PRs</title>
+<polygon points="601,276.16 615,272.16 625,279.16 611,283.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-23: 0 merged PRs</title>
+<polygon points="612,284.16 626,280.16 636,287.16 622,291.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-24: 0 merged PRs</title>
+<polygon points="623,292.16 637,288.16 647,295.16 633,299.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-25: 0 merged PRs</title>
+<polygon points="634,300.16 648,296.16 658,303.16 644,307.16" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-26: 0 merged PRs</title>
+<polygon points="584,251.88 598,247.88 608,254.88 594,258.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-27: 0 merged PRs</title>
+<polygon points="595,259.88 609,255.88 619,262.88 605,266.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-28: 0 merged PRs</title>
+<polygon points="606,267.88 620,263.88 630,270.88 616,274.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-29: 1 merged PRs</title>
+<polygon points="627,280.88 641,276.88 641,278.88 627,282.88" fill="#176b62"/>
+<polygon points="617,273.88 627,280.88 627,282.88 617,275.88" fill="#10463f"/>
+<polygon points="617,273.88 631,269.88 641,276.88 627,280.88" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-04-30: 0 merged PRs</title>
+<polygon points="628,283.88 642,279.88 652,286.88 638,290.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-01: 0 merged PRs</title>
+<polygon points="639,291.88 653,287.88 663,294.88 649,298.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-02: 0 merged PRs</title>
+<polygon points="650,299.88 664,295.88 674,302.88 660,306.88" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-03: 1 merged PRs</title>
+<polygon points="610,256.6 624,252.6 624,254.6 610,258.6" fill="#176b62"/>
+<polygon points="600,249.6 610,256.6 610,258.6 600,251.6" fill="#10463f"/>
+<polygon points="600,249.6 614,245.6 624,252.6 610,256.6" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<text x="600" y="350.6" font-size="11" fill="#9fb3c8">May</text>
+<g><title>2026-05-04: 0 merged PRs</title>
+<polygon points="611,259.6 625,255.60000000000002 635,262.6 621,266.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-05: 1 merged PRs</title>
+<polygon points="632,272.6 646,268.6 646,270.6 632,274.6" fill="#176b62"/>
+<polygon points="622,265.6 632,272.6 632,274.6 622,267.6" fill="#10463f"/>
+<polygon points="622,265.6 636,261.6 646,268.6 632,272.6" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-06: 0 merged PRs</title>
+<polygon points="633,275.6 647,271.6 657,278.6 643,282.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-07: 1 merged PRs</title>
+<polygon points="654,288.6 668,284.6 668,286.6 654,290.6" fill="#176b62"/>
+<polygon points="644,281.6 654,288.6 654,290.6 644,283.6" fill="#10463f"/>
+<polygon points="644,281.6 658,277.6 668,284.6 654,288.6" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-08: 1 merged PRs</title>
+<polygon points="665,296.6 679,292.6 679,294.6 665,298.6" fill="#176b62"/>
+<polygon points="655,289.6 665,296.6 665,298.6 655,291.6" fill="#10463f"/>
+<polygon points="655,289.6 669,285.6 679,292.6 665,296.6" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-09: 0 merged PRs</title>
+<polygon points="666,299.6 680,295.6 690,302.6 676,306.6" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-10: 0 merged PRs</title>
+<polygon points="616,251.32 630,247.32 640,254.32 626,258.32" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-11: 2 merged PRs</title>
+<polygon points="637,262.32 651,258.32 651,262.32 637,266.32" fill="#176b62"/>
+<polygon points="627,255.32 637,262.32 637,266.32 627,259.32" fill="#10463f"/>
+<polygon points="627,255.32 641,251.32 651,258.32 637,262.32" fill="#209b78" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-12: 1 merged PRs</title>
+<polygon points="648,272.32 662,268.32 662,270.32 648,274.32" fill="#176b62"/>
+<polygon points="638,265.32 648,272.32 648,274.32 638,267.32" fill="#10463f"/>
+<polygon points="638,265.32 652,261.32 662,268.32 648,272.32" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-13: 1 merged PRs</title>
+<polygon points="659,280.32 673,276.32 673,278.32 659,282.32" fill="#176b62"/>
+<polygon points="649,273.32 659,280.32 659,282.32 649,275.32" fill="#10463f"/>
+<polygon points="649,273.32 663,269.32 673,276.32 659,280.32" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-14: 2 merged PRs</title>
+<polygon points="670,286.32 684,282.32 684,286.32 670,290.32" fill="#176b62"/>
+<polygon points="660,279.32 670,286.32 670,290.32 660,283.32" fill="#10463f"/>
+<polygon points="660,279.32 674,275.32 684,282.32 670,286.32" fill="#209b78" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-15: 1 merged PRs</title>
+<polygon points="681,296.32 695,292.32 695,294.32 681,298.32" fill="#176b62"/>
+<polygon points="671,289.32 681,296.32 681,298.32 671,291.32" fill="#10463f"/>
+<polygon points="671,289.32 685,285.32 695,292.32 681,296.32" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-16: 1 merged PRs</title>
+<polygon points="692,304.32 706,300.32 706,302.32 692,306.32" fill="#176b62"/>
+<polygon points="682,297.32 692,304.32 692,306.32 682,299.32" fill="#10463f"/>
+<polygon points="682,297.32 696,293.32 706,300.32 692,304.32" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-17: 0 merged PRs</title>
+<polygon points="632,251.04 646,247.04 656,254.04 642,258.03999999999996" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-18: 2 merged PRs</title>
+<polygon points="653,262.04 667,258.04 667,262.04 653,266.04" fill="#176b62"/>
+<polygon points="643,255.04000000000002 653,262.04 653,266.04 643,259.04" fill="#10463f"/>
+<polygon points="643,255.04000000000002 657,251.04000000000002 667,258.04 653,262.04" fill="#209b78" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-19: 2 merged PRs</title>
+<polygon points="664,270.04 678,266.04 678,270.04 664,274.04" fill="#176b62"/>
+<polygon points="654,263.04 664,270.04 664,274.04 654,267.04" fill="#10463f"/>
+<polygon points="654,263.04 668,259.04 678,266.04 664,270.04" fill="#209b78" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-20: 1 merged PRs</title>
+<polygon points="675,280.04 689,276.04 689,278.04 675,282.04" fill="#176b62"/>
+<polygon points="665,273.04 675,280.04 675,282.04 665,275.04" fill="#10463f"/>
+<polygon points="665,273.04 679,269.04 689,276.04 675,280.04" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-21: 1 merged PRs</title>
+<polygon points="686,288.04 700,284.04 700,286.04 686,290.04" fill="#176b62"/>
+<polygon points="676,281.04 686,288.04 686,290.04 676,283.04" fill="#10463f"/>
+<polygon points="676,281.04 690,277.04 700,284.04 686,288.04" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-22: 0 merged PRs</title>
+<polygon points="687,291.04 701,287.04 711,294.04 697,298.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-23: 0 merged PRs</title>
+<polygon points="698,299.04 712,295.04 722,302.04 708,306.04" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-24: 0 merged PRs</title>
+<polygon points="648,250.76 662,246.76 672,253.76 658,257.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-25: 0 merged PRs</title>
+<polygon points="659,258.76 673,254.76 683,261.76 669,265.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-26: 0 merged PRs</title>
+<polygon points="670,266.76 684,262.76 694,269.76 680,273.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-27: 0 merged PRs</title>
+<polygon points="681,274.76 695,270.76 705,277.76 691,281.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-28: 0 merged PRs</title>
+<polygon points="692,282.76 706,278.76 716,285.76 702,289.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-29: 1 merged PRs</title>
+<polygon points="713,295.76 727,291.76 727,293.76 713,297.76" fill="#176b62"/>
+<polygon points="703,288.76 713,295.76 713,297.76 703,290.76" fill="#10463f"/>
+<polygon points="703,288.76 717,284.76 727,291.76 713,295.76" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-30: 0 merged PRs</title>
+<polygon points="714,298.76 728,294.76 738,301.76 724,305.76" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-05-31: 0 merged PRs</title>
+<polygon points="664,250.48 678,246.48 688,253.48 674,257.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-01: 1 merged PRs</title>
+<polygon points="685,263.48 699,259.48 699,261.48 685,265.48" fill="#176b62"/>
+<polygon points="675,256.48 685,263.48 685,265.48 675,258.48" fill="#10463f"/>
+<polygon points="675,256.48 689,252.48000000000002 699,259.48 685,263.48" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-02: 0 merged PRs</title>
+<polygon points="686,266.48 700,262.48 710,269.48 696,273.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-03: 4 merged PRs</title>
+<polygon points="707,273.48 721,269.48 721,277.48 707,281.48" fill="#176b62"/>
+<polygon points="697,266.48 707,273.48 707,281.48 697,274.48" fill="#10463f"/>
+<polygon points="697,266.48 711,262.48 721,269.48 707,273.48" fill="#48d6a0" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-04: 1 merged PRs</title>
+<polygon points="718,287.48 732,283.48 732,285.48 718,289.48" fill="#176b62"/>
+<polygon points="708,280.48 718,287.48 718,289.48 708,282.48" fill="#10463f"/>
+<polygon points="708,280.48 722,276.48 732,283.48 718,287.48" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-05: 0 merged PRs</title>
+<polygon points="719,290.48 733,286.48 743,293.48 729,297.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-06: 0 merged PRs</title>
+<polygon points="730,298.48 744,294.48 754,301.48 740,305.48" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-07: 0 merged PRs</title>
+<polygon points="680,250.2 694,246.2 704,253.2 690,257.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="680" y="349.2" font-size="11" fill="#9fb3c8">Jun</text>
+<g><title>2026-06-08: 0 merged PRs</title>
+<polygon points="691,258.2 705,254.2 715,261.2 701,265.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-09: 0 merged PRs</title>
+<polygon points="702,266.2 716,262.2 726,269.2 712,273.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-10: 1 merged PRs</title>
+<polygon points="723,279.2 737,275.2 737,277.2 723,281.2" fill="#176b62"/>
+<polygon points="713,272.2 723,279.2 723,281.2 713,274.2" fill="#10463f"/>
+<polygon points="713,272.2 727,268.2 737,275.2 723,279.2" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-11: 0 merged PRs</title>
+<polygon points="724,282.2 738,278.2 748,285.2 734,289.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-12: 1 merged PRs</title>
+<polygon points="745,295.2 759,291.2 759,293.2 745,297.2" fill="#176b62"/>
+<polygon points="735,288.2 745,295.2 745,297.2 735,290.2" fill="#10463f"/>
+<polygon points="735,288.2 749,284.2 759,291.2 745,295.2" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-13: 0 merged PRs</title>
+<polygon points="746,298.2 760,294.2 770,301.2 756,305.2" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-14: 0 merged PRs</title>
+<polygon points="696,249.92 710,245.92 720,252.92 706,256.91999999999996" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-15: 0 merged PRs</title>
+<polygon points="707,257.92 721,253.92000000000002 731,260.92 717,264.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-16: 1 merged PRs</title>
+<polygon points="728,270.92 742,266.92 742,268.92 728,272.92" fill="#176b62"/>
+<polygon points="718,263.92 728,270.92 728,272.92 718,265.92" fill="#10463f"/>
+<polygon points="718,263.92 732,259.92 742,266.92 728,270.92" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-17: 0 merged PRs</title>
+<polygon points="729,273.92 743,269.92 753,276.92 739,280.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-18: 0 merged PRs</title>
+<polygon points="740,281.92 754,277.92 764,284.92 750,288.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-19: 0 merged PRs</title>
+<polygon points="751,289.92 765,285.92 775,292.92 761,296.92" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-20: 1 merged PRs</title>
+<polygon points="772,302.92 786,298.92 786,300.92 772,304.92" fill="#176b62"/>
+<polygon points="762,295.92 772,302.92 772,304.92 762,297.92" fill="#10463f"/>
+<polygon points="762,295.92 776,291.92 786,298.92 772,302.92" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-21: 0 merged PRs</title>
+<polygon points="712,249.64 726,245.64 736,252.64 722,256.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-22: 0 merged PRs</title>
+<polygon points="723,257.64 737,253.64 747,260.64 733,264.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-23: 0 merged PRs</title>
+<polygon points="734,265.64 748,261.64 758,268.64 744,272.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-24: 2 merged PRs</title>
+<polygon points="755,276.64 769,272.64 769,276.64 755,280.64" fill="#176b62"/>
+<polygon points="745,269.64 755,276.64 755,280.64 745,273.64" fill="#10463f"/>
+<polygon points="745,269.64 759,265.64 769,272.64 755,276.64" fill="#209b78" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-25: 1 merged PRs</title>
+<polygon points="766,286.64 780,282.64 780,284.64 766,288.64" fill="#176b62"/>
+<polygon points="756,279.64 766,286.64 766,288.64 756,281.64" fill="#10463f"/>
+<polygon points="756,279.64 770,275.64 780,282.64 766,286.64" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-26: 0 merged PRs</title>
+<polygon points="767,289.64 781,285.64 791,292.64 777,296.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-27: 0 merged PRs</title>
+<polygon points="778,297.64 792,293.64 802,300.64 788,304.64" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-28: 0 merged PRs</title>
+<polygon points="728,249.36 742,245.36 752,252.36 738,256.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-29: 0 merged PRs</title>
+<polygon points="739,257.36 753,253.36 763,260.36 749,264.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-06-30: 0 merged PRs</title>
+<polygon points="750,265.36 764,261.36 774,268.36 760,272.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-01: 0 merged PRs</title>
+<polygon points="761,273.36 775,269.36 785,276.36 771,280.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-02: 0 merged PRs</title>
+<polygon points="772,281.36 786,277.36 796,284.36 782,288.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-03: 0 merged PRs</title>
+<polygon points="783,289.36 797,285.36 807,292.36 793,296.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-04: 0 merged PRs</title>
+<polygon points="794,297.36 808,293.36 818,300.36 804,304.36" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-05: 0 merged PRs</title>
+<polygon points="744,249.07999999999998 758,245.07999999999998 768,252.07999999999998 754,256.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="744" y="348.08" font-size="11" fill="#9fb3c8">Jul</text>
+<g><title>2026-07-06: 0 merged PRs</title>
+<polygon points="755,257.08 769,253.07999999999998 779,260.08 765,264.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-07: 0 merged PRs</title>
+<polygon points="766,265.08 780,261.08 790,268.08 776,272.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-08: 1 merged PRs</title>
+<polygon points="787,278.08 801,274.08 801,276.08 787,280.08" fill="#176b62"/>
+<polygon points="777,271.08 787,278.08 787,280.08 777,273.08" fill="#10463f"/>
+<polygon points="777,271.08 791,267.08 801,274.08 787,278.08" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-09: 0 merged PRs</title>
+<polygon points="788,281.08 802,277.08 812,284.08 798,288.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-10: 0 merged PRs</title>
+<polygon points="799,289.08 813,285.08 823,292.08 809,296.08" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-11: 1 merged PRs</title>
+<polygon points="820,302.08 834,298.08 834,300.08 820,304.08" fill="#176b62"/>
+<polygon points="810,295.08 820,302.08 820,304.08 810,297.08" fill="#10463f"/>
+<polygon points="810,295.08 824,291.08 834,298.08 820,302.08" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-12: 0 merged PRs</title>
+<polygon points="760,248.8 774,244.8 784,251.8 770,255.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-13: 0 merged PRs</title>
+<polygon points="771,256.8 785,252.8 795,259.8 781,263.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-14: 0 merged PRs</title>
+<polygon points="782,264.8 796,260.8 806,267.8 792,271.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-15: 1 merged PRs</title>
+<polygon points="803,277.8 817,273.8 817,275.8 803,279.8" fill="#176b62"/>
+<polygon points="793,270.8 803,277.8 803,279.8 793,272.8" fill="#10463f"/>
+<polygon points="793,270.8 807,266.8 817,273.8 803,277.8" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-16: 2 merged PRs</title>
+<polygon points="814,283.8 828,279.8 828,283.8 814,287.8" fill="#176b62"/>
+<polygon points="804,276.8 814,283.8 814,287.8 804,280.8" fill="#10463f"/>
+<polygon points="804,276.8 818,272.8 828,279.8 814,283.8" fill="#209b78" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-17: 0 merged PRs</title>
+<polygon points="815,288.8 829,284.8 839,291.8 825,295.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-18: 0 merged PRs</title>
+<polygon points="826,296.8 840,292.8 850,299.8 836,303.8" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-19: 0 merged PRs</title>
+<polygon points="776,248.52 790,244.52 800,251.52 786,255.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-20: 0 merged PRs</title>
+<polygon points="787,256.52 801,252.51999999999998 811,259.52 797,263.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-21: 0 merged PRs</title>
+<polygon points="798,264.52 812,260.52 822,267.52 808,271.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-22: 0 merged PRs</title>
+<polygon points="809,272.52 823,268.52 833,275.52 819,279.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-23: 0 merged PRs</title>
+<polygon points="820,280.52 834,276.52 844,283.52 830,287.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-24: 0 merged PRs</title>
+<polygon points="831,288.52 845,284.52 855,291.52 841,295.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-25: 0 merged PRs</title>
+<polygon points="842,296.52 856,292.52 866,299.52 852,303.52" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-26: 0 merged PRs</title>
+<polygon points="792,248.24 806,244.24 816,251.24 802,255.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-27: 0 merged PRs</title>
+<polygon points="803,256.24 817,252.24 827,259.24 813,263.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-28: 1 merged PRs</title>
+<polygon points="824,269.24 838,265.24 838,267.24 824,271.24" fill="#176b62"/>
+<polygon points="814,262.24 824,269.24 824,271.24 814,264.24" fill="#10463f"/>
+<polygon points="814,262.24 828,258.24 838,265.24 824,269.24" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-29: 1 merged PRs</title>
+<polygon points="835,277.24 849,273.24 849,275.24 835,279.24" fill="#176b62"/>
+<polygon points="825,270.24 835,277.24 835,279.24 825,272.24" fill="#10463f"/>
+<polygon points="825,270.24 839,266.24 849,273.24 835,277.24" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-30: 0 merged PRs</title>
+<polygon points="836,280.24 850,276.24 860,283.24 846,287.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-07-31: 0 merged PRs</title>
+<polygon points="847,288.24 861,284.24 871,291.24 857,295.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-01: 0 merged PRs</title>
+<polygon points="858,296.24 872,292.24 882,299.24 868,303.24" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-02: 0 merged PRs</title>
+<polygon points="808,247.96 822,243.96 832,250.96 818,254.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="808" y="346.96000000000004" font-size="11" fill="#9fb3c8">Aug</text>
+<g><title>2026-08-03: 0 merged PRs</title>
+<polygon points="819,255.96 833,251.96 843,258.96000000000004 829,262.96000000000004" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-04: 0 merged PRs</title>
+<polygon points="830,263.96 844,259.96 854,266.96 840,270.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-05: 0 merged PRs</title>
+<polygon points="841,271.96 855,267.96 865,274.96 851,278.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-06: 0 merged PRs</title>
+<polygon points="852,279.96 866,275.96 876,282.96 862,286.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-07: 0 merged PRs</title>
+<polygon points="863,287.96 877,283.96 887,290.96 873,294.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-08: 0 merged PRs</title>
+<polygon points="874,295.96 888,291.96 898,298.96 884,302.96" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-09: 0 merged PRs</title>
+<polygon points="824,247.68 838,243.68 848,250.68 834,254.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-10: 0 merged PRs</title>
+<polygon points="835,255.68 849,251.68 859,258.68 845,262.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-11: 0 merged PRs</title>
+<polygon points="846,263.68 860,259.68 870,266.68 856,270.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-12: 0 merged PRs</title>
+<polygon points="857,271.68 871,267.68 881,274.68 867,278.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-13: 0 merged PRs</title>
+<polygon points="868,279.68 882,275.68 892,282.68 878,286.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-14: 0 merged PRs</title>
+<polygon points="879,287.68 893,283.68 903,290.68 889,294.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-15: 0 merged PRs</title>
+<polygon points="890,295.68 904,291.68 914,298.68 900,302.68" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-16: 0 merged PRs</title>
+<polygon points="840,247.4 854,243.4 864,250.4 850,254.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-17: 0 merged PRs</title>
+<polygon points="851,255.4 865,251.4 875,258.4 861,262.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-18: 0 merged PRs</title>
+<polygon points="862,263.4 876,259.4 886,266.4 872,270.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-19: 0 merged PRs</title>
+<polygon points="873,271.4 887,267.4 897,274.4 883,278.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-20: 0 merged PRs</title>
+<polygon points="884,279.4 898,275.4 908,282.4 894,286.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-21: 1 merged PRs</title>
+<polygon points="905,292.4 919,288.4 919,290.4 905,294.4" fill="#176b62"/>
+<polygon points="895,285.4 905,292.4 905,294.4 895,287.4" fill="#10463f"/>
+<polygon points="895,285.4 909,281.4 919,288.4 905,292.4" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-22: 0 merged PRs</title>
+<polygon points="906,295.4 920,291.4 930,298.4 916,302.4" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-23: 0 merged PRs</title>
+<polygon points="856,247.12 870,243.12 880,250.12 866,254.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-24: 0 merged PRs</title>
+<polygon points="867,255.12 881,251.12 891,258.12 877,262.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-25: 0 merged PRs</title>
+<polygon points="878,263.12 892,259.12 902,266.12 888,270.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-26: 0 merged PRs</title>
+<polygon points="889,271.12 903,267.12 913,274.12 899,278.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-27: 0 merged PRs</title>
+<polygon points="900,279.12 914,275.12 924,282.12 910,286.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-28: 0 merged PRs</title>
+<polygon points="911,287.12 925,283.12 935,290.12 921,294.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-29: 0 merged PRs</title>
+<polygon points="922,295.12 936,291.12 946,298.12 932,302.12" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-30: 0 merged PRs</title>
+<polygon points="872,246.84 886,242.84 896,249.84 882,253.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-08-31: 0 merged PRs</title>
+<polygon points="883,254.84 897,250.84 907,257.84000000000003 893,261.84000000000003" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-01: 0 merged PRs</title>
+<polygon points="894,262.84 908,258.84 918,265.84 904,269.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-02: 0 merged PRs</title>
+<polygon points="905,270.84 919,266.84 929,273.84 915,277.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-03: 0 merged PRs</title>
+<polygon points="916,278.84 930,274.84 940,281.84 926,285.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-04: 0 merged PRs</title>
+<polygon points="927,286.84 941,282.84 951,289.84 937,293.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-05: 0 merged PRs</title>
+<polygon points="938,294.84 952,290.84 962,297.84 948,301.84" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-06: 0 merged PRs</title>
+<polygon points="888,246.56 902,242.56 912,249.56 898,253.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="888" y="345.56" font-size="11" fill="#9fb3c8">Sep</text>
+<g><title>2026-09-07: 0 merged PRs</title>
+<polygon points="899,254.56 913,250.56 923,257.56 909,261.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-08: 0 merged PRs</title>
+<polygon points="910,262.56 924,258.56 934,265.56 920,269.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-09: 0 merged PRs</title>
+<polygon points="921,270.56 935,266.56 945,273.56 931,277.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-10: 0 merged PRs</title>
+<polygon points="932,278.56 946,274.56 956,281.56 942,285.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-11: 0 merged PRs</title>
+<polygon points="943,286.56 957,282.56 967,289.56 953,293.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-12: 0 merged PRs</title>
+<polygon points="954,294.56 968,290.56 978,297.56 964,301.56" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-13: 0 merged PRs</title>
+<polygon points="904,246.28 918,242.28 928,249.28 914,253.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-14: 0 merged PRs</title>
+<polygon points="915,254.28 929,250.28 939,257.28 925,261.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-15: 0 merged PRs</title>
+<polygon points="926,262.28 940,258.28 950,265.28 936,269.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-16: 0 merged PRs</title>
+<polygon points="937,270.28 951,266.28 961,273.28 947,277.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-17: 0 merged PRs</title>
+<polygon points="948,278.28 962,274.28 972,281.28 958,285.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-18: 0 merged PRs</title>
+<polygon points="959,286.28 973,282.28 983,289.28 969,293.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-19: 0 merged PRs</title>
+<polygon points="970,294.28 984,290.28 994,297.28 980,301.28" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-20: 1 merged PRs</title>
+<polygon points="930,251.0 944,247.0 944,249.0 930,253.0" fill="#176b62"/>
+<polygon points="920,244.0 930,251.0 930,253.0 920,246.0" fill="#10463f"/>
+<polygon points="920,244.0 934,240.0 944,247.0 930,251.0" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-21: 0 merged PRs</title>
+<polygon points="931,254.0 945,250.0 955,257.0 941,261.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-22: 1 merged PRs</title>
+<polygon points="952,267.0 966,263.0 966,265.0 952,269.0" fill="#176b62"/>
+<polygon points="942,260.0 952,267.0 952,269.0 942,262.0" fill="#10463f"/>
+<polygon points="942,260.0 956,256.0 966,263.0 952,267.0" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-23: 1 merged PRs</title>
+<polygon points="963,275.0 977,271.0 977,273.0 963,277.0" fill="#176b62"/>
+<polygon points="953,268.0 963,275.0 963,277.0 953,270.0" fill="#10463f"/>
+<polygon points="953,268.0 967,264.0 977,271.0 963,275.0" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-24: 0 merged PRs</title>
+<polygon points="964,278.0 978,274.0 988,281.0 974,285.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-25: 0 merged PRs</title>
+<polygon points="975,286.0 989,282.0 999,289.0 985,293.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-26: 0 merged PRs</title>
+<polygon points="986,294.0 1000,290.0 1010,297.0 996,301.0" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-27: 0 merged PRs</title>
+<polygon points="936,245.72 950,241.72 960,248.72 946,252.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-28: 1 merged PRs</title>
+<polygon points="957,258.72 971,254.72000000000003 971,256.72 957,260.72" fill="#176b62"/>
+<polygon points="947,251.72 957,258.72 957,260.72 947,253.72" fill="#10463f"/>
+<polygon points="947,251.72 961,247.72 971,254.72000000000003 957,258.72" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-29: 1 merged PRs</title>
+<polygon points="968,266.72 982,262.72 982,264.72 968,268.72" fill="#176b62"/>
+<polygon points="958,259.72 968,266.72 968,268.72 958,261.72" fill="#10463f"/>
+<polygon points="958,259.72 972,255.72000000000003 982,262.72 968,266.72" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-09-30: 0 merged PRs</title>
+<polygon points="969,269.72 983,265.72 993,272.72 979,276.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-01: 0 merged PRs</title>
+<polygon points="980,277.72 994,273.72 1004,280.72 990,284.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-02: 0 merged PRs</title>
+<polygon points="991,285.72 1005,281.72 1015,288.72 1001,292.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-03: 0 merged PRs</title>
+<polygon points="1002,293.72 1016,289.72 1026,296.72 1012,300.72" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-04: 0 merged PRs</title>
+<polygon points="952,245.44 966,241.44 976,248.44 962,252.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="952" y="344.44" font-size="11" fill="#9fb3c8">Oct</text>
+<g><title>2026-10-05: 1 merged PRs</title>
+<polygon points="973,258.44 987,254.44 987,256.44 973,260.44" fill="#176b62"/>
+<polygon points="963,251.44 973,258.44 973,260.44 963,253.44" fill="#10463f"/>
+<polygon points="963,251.44 977,247.44 987,254.44 973,258.44" fill="#176b62" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-06: 0 merged PRs</title>
+<polygon points="974,261.44 988,257.44 998,264.44 984,268.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-07: 0 merged PRs</title>
+<polygon points="985,269.44 999,265.44 1009,272.44 995,276.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<g><title>2026-10-08: 0 merged PRs</title>
+<polygon points="996,277.44 1010,273.44 1020,280.44 1006,284.44" fill="#172a3a" stroke="#0d1520" stroke-width="1"/></g>
+<text x="36" y="396" font-size="12" fill="#9fb3c8">Each tile is one day · height and color show merged contributions</text>
+<rect x="837" y="384" width="18" height="14" rx="3" fill="#172a3a"/>
+<rect x="862" y="384" width="18" height="14" rx="3" fill="#176b62"/>
+<rect x="887" y="384" width="18" height="14" rx="3" fill="#209b78"/>
+<rect x="912" y="384" width="18" height="14" rx="3" fill="#48d6a0"/>
+<rect x="937" y="384" width="18" height="14" rx="3" fill="#a0ffce"/>
+<text x="798" y="396" font-size="11" fill="#9fb3c8">Less</text>
+<text x="970" y="396" font-size="11" fill="#9fb3c8">More</text>
+<path d="M36 421 H1064" stroke="#243749"/>
+<text x="36" y="454" font-size="12" fill="#9fb3c8">Public repositories owned by others · actual UTC merge dates · updated 2026-10-08</text>
 </g></svg>
