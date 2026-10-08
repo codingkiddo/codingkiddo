@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="740" viewBox="0 0 1000 740" role="img" aria-labelledby="title desc">
+<title id="title">Merged open-source contributions by repository</title>
+<desc id="desc">47 public merged pull requests across 28 external repositories. Updated 2026-10-08.</desc>
+<rect width="1000" height="740" rx="16" fill="#0d1117"/>
+<g font-family="Arial, sans-serif" fill="#e6edf3">
+<text x="30" y="42" font-size="23" font-weight="bold">Open-source impact</text>
+<text x="30" y="73" font-size="16">47 merged PRs · 28 repositories</text>
+<text x="30" y="129" font-size="13">floci-io/floci</text>
+<rect x="440" y="112" width="283.1" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="129" font-size="14">8</text>
+<text x="30" y="164" font-size="13">Kong/unirest-java</text>
+<rect x="440" y="147" width="176.9" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="164" font-size="14">5</text>
+<text x="30" y="199" font-size="13">spring-projects/spring-boot</text>
+<rect x="440" y="182" width="106.2" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="199" font-size="14">3</text>
+<text x="30" y="234" font-size="13">codecentric/spring-boot-admin</text>
+<rect x="440" y="217" width="70.8" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="234" font-size="14">2</text>
+<text x="30" y="269" font-size="13">floci-io/testcontainers-floci</text>
+<rect x="440" y="252" width="70.8" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="269" font-size="14">2</text>
+<text x="30" y="304" font-size="13">junit-team/junit-framework</text>
+<rect x="440" y="287" width="70.8" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="304" font-size="14">2</text>
+<text x="30" y="339" font-size="13">piomin/spring-boot-logging</text>
+<rect x="440" y="322" width="70.8" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="339" font-size="14">2</text>
+<text x="30" y="374" font-size="13">spring-petclinic/spring-petclinic-microservices</text>
+<rect x="440" y="357" width="70.8" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="374" font-size="14">2</text>
+<text x="30" y="409" font-size="13">uber/NullAway</text>
+<rect x="440" y="392" width="70.8" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="409" font-size="14">2</text>
+<text x="30" y="444" font-size="13">alibaba/spring-ai-alibaba</text>
+<rect x="440" y="427" width="35.4" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="444" font-size="14">1</text>
+<text x="30" y="479" font-size="13">apache/cloudstack</text>
+<rect x="440" y="462" width="35.4" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="479" font-size="14">1</text>
+<text x="30" y="514" font-size="13">apache/dubbo</text>
+<rect x="440" y="497" width="35.4" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="514" font-size="14">1</text>
+<text x="30" y="549" font-size="13">apache/empire-db</text>
+<rect x="440" y="532" width="35.4" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="549" font-size="14">1</text>
+<text x="30" y="584" font-size="13">apache/incubator-seata</text>
+<rect x="440" y="567" width="35.4" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="584" font-size="14">1</text>
+<text x="30" y="619" font-size="13">ben-manes/caffeine</text>
+<rect x="440" y="602" width="35.4" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="619" font-size="14">1</text>
+<text x="30" y="654" font-size="13">Other repositories</text>
+<rect x="440" y="637" width="460.0" height="23" rx="4" fill="#58a6ff"/>
+<text x="920" y="654" font-size="14">13</text>
+<text x="30" y="717" font-size="12" fill="#8b949e">Public external repositories · top 15 + others · updated 2026-10-08 UTC</text>
+</g></svg>
