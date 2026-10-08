@@ -60,16 +60,7 @@ I actively contribute to open-source projects across the **Java ecosystem, Sprin
 
 ### Open Source Impact
 
-25+ merged PRs across Java/Spring ecosystem projects including Spring Boot, Spring Framework, Mockito, Jenkins, Byte Buddy, Apache Dubbo, Apache Seata, Micrometer, JUnit, Caffeine, Floci, and Testcontainers-related tooling.
-
-Focus areas:
-- Java modernization
-- Test reliability
-- Documentation clarity
-- Type-safety improvements
-- Framework-level code cleanup
-- Diagnostics and developer experience
-
+PRs merged across Java/Spring ecosystem projects including Spring Boot, Spring Framework, Mockito, Jenkins, Byte Buddy, Apache Dubbo, Apache Seata, Micrometer, JUnit, Caffeine, Floci, and Testcontainers-related tooling.
 
 ### 🎯 Contribution Focus
 
